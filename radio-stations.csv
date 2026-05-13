@@ -1,0 +1,163 @@
+name,type,owner_group,region,website,primary_email,secondary_email,phone,address,social,editor,notes
+NRK P1,national-public,NRK,Hele Norge,https://radio.nrk.no/direkte/p1,musikkprodusenter.p1@nrk.no,atle.bredal@nrk.no,815 65 900,"Musikkprodusenter NRK P1, Postboks 2450, Torgarden, 7005 Trondheim",fb:nrkp1,Atle Bredal (musikksjef),Send link til nedlasting (ikke vedlegg). Musikkmøte mandag kl 12.
+NRK P2,national-public,NRK,Hele Norge,https://radio.nrk.no/direkte/p2,ingvei.eikaas@nrk.no,,815 65 900,"NRK P2 v/Ingvei Eikaas, PB 8500 Majorstuen, 0340 Oslo",fb:nrkp2,Ingvei Eikaas,Klassisk / folkemusikk / jazz
+NRK P3,national-public,NRK,Hele Norge,https://radio.nrk.no/direkte/p3,musikkprodusenterp3@nrk.no,ida.eline.tangen@nrk.no,815 65 900,"NRK P3, 0340 Oslo",ig:nrkp3,Ida Eline Tangen (musikksjef),Links only - no attachments
+NRK mP3,national-public,NRK,Hele Norge,https://radio.nrk.no/direkte/mp3,musikkprodusenterp3@nrk.no,,815 65 900,"NRK, 0340 Oslo",,Ida Eline Tangen,Same redaksjon som P3
+NRK P13,national-public,NRK,Hele Norge,https://radio.nrk.no/direkte/p13,kristin.winsents@nrk.no,,815 65 900,"NRK, 0340 Oslo",,Kristin Winsents (musikksjef),Rock/indie
+NRK Folkemusikk,national-public,NRK,Hele Norge,https://radio.nrk.no/direkte/folkemusikk,leiv.solberg@nrk.no,,815 65 900,"NRK Folkemusikk v/Leiv Solberg, DSL, PB 8500 Majorstuen, 0340 Oslo",,Leiv Solberg,
+NRK Jazz,national-public,NRK,Hele Norge,https://radio.nrk.no/direkte/jazz,ingvei.eikaas@nrk.no,,815 65 900,"NRK, 0340 Oslo",,,
+NRK Klassisk,national-public,NRK,Hele Norge,https://radio.nrk.no/direkte/klassisk,ingvei.eikaas@nrk.no,,815 65 900,"NRK, 0340 Oslo",,,
+NRK Sápmi,national-public,NRK,Sápmi/Hele Norge,https://www.nrk.no/sapmi/,nyheter.sapmi@nrk.no,,78 46 92 01,"Mari Boine geaidnu 12, 9730 Kárášjohka/Karasjok",fb:nrksapmi,,
+NRK P1+,national-public,NRK,Hele Norge,https://radio.nrk.no/direkte/p1pluss,musikkprodusenter.p1@nrk.no,,815 65 900,"Musikkprodusenter NRK P1, Postboks 2450, Torgarden, 7005 Trondheim",,Atle Bredal,For voksne lyttere
+NRK Sport,national-public,NRK,Hele Norge,https://radio.nrk.no/direkte/sport,sport@nrk.no,,815 65 900,"NRK, 0340 Oslo",,,Tematisk passe for VM-album
+NRK Nyheter,national-public,NRK,Hele Norge,https://radio.nrk.no/direkte/alltid_nyheter,redaksjonen.dab@nrk.no,,815 65 900,"NRK, 0340 Oslo",,,
+NRK Digital Music Archive,music-archive,NRK,Hele Norge,https://bidra.nrk.no/musikkinntak,musikkinntak@nrk.no,,,"NRK, 0340 Oslo",,,Send WAV/FLAC + cover 3000x3000 via Bidra-portal
+P4 Radio Hele Norge,national-commercial,P4-gruppen,Hele Norge,https://www.lydenavnorge.no/p4/,musikk@p4.no,p4@p4.no,61 24 84 44,"Postboks 817, 2626 Lillehammer",ig:p4radio,,Stort musikkvolum - alt blir hørt
+P5 Hits,national-commercial,P4-gruppen,Hele Norge,https://www.lydenavnorge.no/p5/,musikk@p4.no,p4@p4.no,61 24 84 44,"Postboks 817, 2626 Lillehammer",,,
+P6 Rock,national-commercial,P4-gruppen,Hele Norge,https://www.lydenavnorge.no/p6/,musikk@p4.no,p4@p4.no,61 24 84 44,"Postboks 817, 2626 Lillehammer",,,
+P7 Klem,national-commercial,P4-gruppen,Hele Norge,https://www.lydenavnorge.no/p7/,musikk@p4.no,p4@p4.no,61 24 84 44,"Postboks 817, 2626 Lillehammer",,,
+P8 Pop,national-commercial,P4-gruppen,Hele Norge,https://www.lydenavnorge.no/p8/,musikk@p4.no,p4@p4.no,61 24 84 44,"Postboks 817, 2626 Lillehammer",,,
+P9 Retro,national-commercial,P4-gruppen,Hele Norge,https://www.lydenavnorge.no/p9/,musikk@p4.no,p4@p4.no,61 24 84 44,"Postboks 817, 2626 Lillehammer",,,
+P10 Country,national-commercial,P4-gruppen,Hele Norge,https://www.lydenavnorge.no/p10/,musikk@p4.no,p4@p4.no,61 24 84 44,"Postboks 817, 2626 Lillehammer",,,
+P11 Bandit,national-commercial,P4-gruppen,Hele Norge,https://www.lydenavnorge.no/p11/,musikk@p4.no,p4@p4.no,61 24 84 44,"Postboks 817, 2626 Lillehammer",,,
+NRJ Norge,national-commercial,P4-gruppen,Hele Norge,https://www.nrj.no/,musikk@p4.no,p4@p4.no,61 24 84 44,"Postboks 817, 2626 Lillehammer",,,
+Radio Norge,national-commercial,Bauer Media,Hele Norge,https://radioplay.no/radio-norge/,hei@radionorge.no,kristoffer.vangen@bauermedia.no,22 02 32 00,"Jernbanetorget 4a, 0154 Oslo",ig:radio_norge / fb:RadioNorge / tt:radionorge_offisiell,Kristoffer Vangen (sjefredaktør),Studio: 08282
+Radio Rock,national-commercial,Bauer Media,Hele Norge,https://radioplay.no/radio-rock/,hei@radionorge.no,,22 02 32 00,"Jernbanetorget 4a, 0154 Oslo",,,
+Kiss,national-commercial,Bauer Media,Hele Norge,https://radioplay.no/kiss/,hei@radionorge.no,,22 02 32 00,"Jernbanetorget 4a, 0154 Oslo",,,
+Radio Norsk Pop,national-commercial,Bauer Media,Hele Norge,https://radioplay.no/norsk-pop/,hei@radionorge.no,,22 02 32 00,"Jernbanetorget 4a, 0154 Oslo",,,Norsk pop fokus - ekstra relevant for Stoch
+Radio Topp 40,national-commercial,Bauer Media,Hele Norge,https://radioplay.no/topp-40/,hei@radionorge.no,,22 02 32 00,"Jernbanetorget 4a, 0154 Oslo",,,
+Radio Vinyl,national-commercial,Bauer Media,Hele Norge,https://radioplay.no/vinyl/,hei@radionorge.no,,22 02 32 00,"Jernbanetorget 4a, 0154 Oslo",,,
+P24-7 Fun,national-commercial,Bauer Media,Hele Norge,https://radioplay.no/p24-7-fun/,hei@radionorge.no,,22 02 32 00,"Jernbanetorget 4a, 0154 Oslo",,,
+P24-7 Mix,national-commercial,Bauer Media,Hele Norge,https://radioplay.no/p24-7-mix/,hei@radionorge.no,,22 02 32 00,"Jernbanetorget 4a, 0154 Oslo",,,
+P24-7 Kos,national-commercial,Bauer Media,Hele Norge,https://radioplay.no/p24-7-kos/,hei@radionorge.no,,22 02 32 00,"Jernbanetorget 4a, 0154 Oslo",,,
+Bauer Media Norway (HQ),group-hq,Bauer Media,Hele Norge,https://www.bauermedia.no/,jim.receveur@bauermedia.no,norgesnyhetene@bauermedia.no,22 02 32 00,"Jernbanetorget 4a, 0154 Oslo",,Jim Receveur (CEO),Bauer-konsernet
+1 FM Molde,local,Mediehuset Romsdals Budstikke,Møre og Romsdal,https://1fmmolde.com,post@1fm.no,,,Torget 1 6415 Molde,ig:1fmmolde / fb:1fmmolde,Stian Viken,
+Bergen Kringkaster,local,Bergen Kringkaster forening,Vestland,https://bergenkringkaster.no,post@bergenkringkaster.no,,,"Grensedalen 59, 5306 Erdal",fb:bergenkringkaster,Svenn Martinsen (styreleder),FM + AM 1314 kHz
+Buskerud Media,local,Buskerud Media,Buskerud,https://buskerudmedia.no,post@buskerudmedia.no,henrik@buskerudmedia.no,,,,Henrik Moen Persson,
+Bygderadio Vest,local,Bygderadio Vest AS,Møre og Romsdal,https://bygderadiovest.no,post@bygderadiovest.no,,,"Volda/Ørsta/Hareid/Herøy/Ulstein/Sande/Vannylven",,Gunnar Andaas,
+Clásico,local,Kulturbørsen AS,Rogaland,https://clasico.no,post@clasico.no,,,"Rogaland",,Herman Skretting,FM 89.8 + DAB
+Dansebandradioen,local,Radio Metro,Oslo,https://radiometro.no,post@radiometro.no,,,"Akersgata 45, 0158 Oslo",,Yvonne Stikbakke,Operert av Radio Metro
+ElverumsRadioen,local,Lokalradioene i Innlandet (Radioene),Innlandet,https://radioene.no/elverumsradioen/,bjorn-martin.brandett@radioene.no,oistein.wien@radioene.no,977 60 082,Elverum,,Bjørn-Martin Brandett,
+GudbrandsdalsRadioen,local,Lokalradioene i Innlandet (Radioene),Innlandet,https://radioene.no/gudbrandsdalsradioen/,bjorn-martin.brandett@radioene.no,,977 60 082,Gudbrandsdalen,,Bjørn-Martin Brandett,
+HamarRadioen,local,Lokalradioene i Innlandet (Radioene),Innlandet,https://radioene.no/hamarradioen/,bjorn-martin.brandett@radioene.no,,977 60 082,Hamar,,Bjørn-Martin Brandett,
+Heart,local,Radio Metro,Oslo,https://radiometro.no,post@radiometro.no,,,"Akersgata 45, 0158 Oslo",,Yvonne Stikbakke,
+JærRadioen,local,Jærradiogruppen,Rogaland,https://jaerradioen.no,post@jaerradioen.no,aslak.skretting@jaerradiogruppen.no,51 97 92 00,Stavanger/Sandnes/Sola/Randaberg,fb:jaerradioen / ig:jaerradioen,Aslak Sommerfelt Skretting,
+Kanal 7,local,Adventistsamfunnet,Oslo,https://kanal7.no,post@kanal7.no,,,Oslo,,Ronald Skjerpen,Adventist livssynsradio
+Nea Radio,local,Nea Radio,Trøndelag,https://nearadio.no,post@nearadio.no,karin@nearadio.no,73 81 74 00,"Mediahuset, 7580 Selbu",,Karin (ansv.red.) / Stian Elverum (DL),Dekker Selbu/Tydal/Røros/Stjørdal/Holtålen
+Radio 102,local,Radio 102 AS,Rogaland,https://radio102.no,post@radio102.no,direkte@radio102.no / reklame@radio102.no,52 720 102,"Karmsundgata 72, 5529 Haugesund / Postboks 102, 5506 Haugesund",,Thor Magnar Thorsen (tmt@radio102.no),Haugesund/Karmøy
+Radio 3 Bodø,local,Radio 3 Bodø AS,Nordland,https://radio3bodo.no,studio@radio3.no,reklame@radio3.no,755 25 000,"Dronningens gate 7c, 8002 Bodø",,Benjamin Solås,
+Radio 3:16,local,Radio 3:16,Agder,https://radio316.no,post@radio316.no,,,"Kongens gate 54, 4608 Kristiansand / Postboks 2505, 4678 Kristiansand",,Margrethe Tveit,Kristen radio
+Radio Ålesund,local,Jærradiogruppen,Møre og Romsdal,https://radioaalesund.no,post@radioaalesund.no,aslak.skretting@jaerradiogruppen.no,70 11 10 50,"Keiser Wilhelms gate 25 Ålesund / Postboks 10 4301 Sandnes",ig:radioaalesund,Aslak Sommerfelt Skretting,Studio: 70 11 10 59
+Radio Alta,local,Radio Alta,Finnmark,https://radioalta.no,post@radioalta.no,,,Alta,,Tor Sara (ansv.red.),
+Radio Askøy,local,Askøy Nærradiolag,Vestland,https://radioaskoy.no,post@radioaskoy.no,,56 14 60 02,Askøy,,Marie Espeset,
+Radio Atlantic,local,Jærradiogruppen,Rogaland,https://radioatlantic.no,post@radioatlantic.no,aslak.skretting@jaerradiogruppen.no,51 97 92 00,"Stavanger/Strand/Hjelmeland/Kvitsøy/Suldal/Sauda",,Aslak Sommerfelt Skretting,
+Radio Bardufoss,local,Bardufoss,Troms,https://bardufoss.no,post@bardufoss.no,,,Bardufoss,,Jan Johnsen,
+Radio Bø,local,Radio Bø,Nordland,https://radiobo.no,post@radiobo.no,,76 11 40 50,Bø (Ofoten/Lofoten/Vesterålen),fb:radioboe,Wiveca N. Wilhelmsen,SMS: 41 45 40 50
+Radio DSF,local,Radio DSF,Finnmark,https://radiodsf.no,post@radiodsf.no,,78 89 68 60,Finnmark,ig:radiodsf,Tormod Gusland,Norsk/samisk kristen
+Radio Folgefonn,local,Folgefonn Media,Vestland,https://folgefonn.media,post@radiofolgefonn.no,,,Hardanger,,Knut O. Dale,
+Radio Fredrikstad,local,Radio Fredrikstad,Østfold,https://radiofredrikstad.no,post@radiofredrikstad.no,,,Fredrikstad,fb:radiofredrikstad / ig:radiofredrikstad,Eilen Grøseth Halvorsen,Vipps #955383
+Radio Grenland,local,Jærradiogruppen,Telemark,https://radiogrenland.no,post@radiogrenland.no,geir.friberg@radiogrenland.no,35 93 03 30,"Friisebrygga 2, 3921 Porsgrunn / PB 1543, 3902 Porsgrunn",fb:radiogrenland / ig:radiogrenland,Geir Friberg,
+Radio Hallingdal,local,Radio Hallingdal,Buskerud,https://radiohallingdal.no,post@radiohallingdal.no,,,"Ålmannvegen 14, 3576 Hol",fb:RadioHallingdal,Mia Langås Flåta,
+Radio Harstad,local,Radio Harstad,Troms,https://radioharstad.no,post@radioharstad.no,,,"Sankt Olavs gate 9, 9405 Harstad",,Tommy Vandalsvik,
+Radio Horten,local,Jærradiogruppen,Vestfold,https://radiotonsberg.no,post@radiotonsberg.no,geir.friberg@radiogrenland.no,33 37 85 55,"Halfdan Wilhelmsens allé 52, 3117 Tønsberg",,Geir Friberg,
+Radio Inter FM,local,Inter FM,Oslo,https://interfm.no,post@interfm.no,,,Oslo,,Dogan Gursel,Flerkulturell
+Radio Kongsvinger,local,Lokalradioene i Innlandet (Radioene),Innlandet,https://radioene.no/radiokongsvinger/,bjorn-martin.brandett@radioene.no,,977 60 082,Kongsvinger,,Bjørn-Martin Brandett,
+Radio Korgen,local,Radio Korgen,Nordland,https://radiokorgen.no,post@radiokorgen.no,terje@radiokorgen.no,75 19 13 33,"Røyrdalsmoen 1, 8646 Korgen",,Terje Nygård / Vegar Skaret (styreleder),Konsesjon siden 1982
+Radio Kos,local,Radio Kos,Rogaland,https://radiokos.no,post@radiokos.no,,,Rogaland,,Jan Einar Vestersjø,
+Radio Kragerø,local,Jærradiogruppen,Telemark,https://radiogrenland.no,post@radiogrenland.no,geir.friberg@radiogrenland.no,35 93 03 30,Kragerø,,Geir Friberg,
+Radio KSU 24/7,local,KSU 24/7,Møre og Romsdal,https://ksu247.no,post@ksu247.no,cw@ksu247.no,90938312,Nordmøre,fb:ksu247,Charles Hagen Williamsen,
+Radio L,local,Radio L,Agder,https://radio-l.no,post@radio-l.no,,,Agder,,Solveig Heldal,
+Radio Latin Amerika,local,Radio Latin-Amerika,Oslo,http://radiolatinamerika.no,post@radiolatinamerika.no,,,Oslo,,Hans Dahle,Spansk/portugisisk
+Radio Loland,local,Radio Loland,Agder,https://radiololand.no,frode@radiololand.no,post@radiololand.no,38 13 96 00,"Sentrumsvegen 24, 4700 Vennesla / Postboks 2, 4701 Vennesla",,Frode Bjorvand,
+Radio Luster,local,Radio Luster,Vestland,https://radioluster.no,melding@radioluster.no,finn.skare@gmail.com,57 68 14 10,"Rådhusvegen 5, 6868 Gaupne",,Finn Skare,
+Radio Lyngdal,local,Radio Lyngdal,Agder,https://radiolyngdal.no,post@radiolyngdal.no,,38 34 31 90,"Kirkeveien 219, 4580 Lyngdal",,Stein Helge Nilsen (91 85 75 50),
+Radio Mehamn,local,Radio Mehamn,Finnmark,https://mehamn.net/radio/,post@mehamn.net,,,Mehamn,,Alf Kåre Hansen,
+Radio Metro,local,Radio Metro,Oslo,https://radiometro.no,post@radiometro.no,,,"Akersgata 45, 0158 Oslo",fb:radiometro,Yvonne Stikbakke,
+Radio MG,local,Radio MG,Telemark,https://radiomg.no,post@radiomg.no,,35 51 52 00,Telemark (Bamble/Skien/Larvik),,Ole Andre Eliassen,
+Radio Midt-Troms,local,Jan Johnsen,Troms,,post@radiomidttroms.no,,,Midt-Troms,,Jan Johnsen,
+Radio Modum,local,Radio Modum,Buskerud,http://www.radiomodum.no,post@radiomodum.no,,,Modum,,Henrik Nikolai Pedersen,
+Radio Nord,local,Jan Johnsen,Troms,,post@radionord.no,,,Nord-Troms,,Jan Johnsen,
+Radio Nordkapp,local,Radio Nordkapp,Finnmark,https://radionordkapp.no,kontakt@radionordkapp.no,,78 47 70 99,Nordkapp,fb:Radio-Nordkapp / tw:Radionordkapp,Raymond Elde,
+Radio Nordsjø,local,Jærradiogruppen,Rogaland,https://radionordsjo.no,post@radionordsjo.no,aslak.skretting@jaerradiogruppen.no,51 97 92 00,"Eigersund/Bjerkreim/Lund/Sokndal",,Aslak Sommerfelt Skretting,
+Radio Notodden,local,Radio Notodden,Telemark,https://radionotodden.no,post@radionotodden.no,,35 29 60 61,"Tinnesgata 66, 3675 Notodden",,Thomas Nilsen Lunde,
+Radio Nova,local,Studentradio Oslo,Oslo,https://radionova.no,post@radionova.no,,,Oslo/Akershus,ig:radionova.oslo / li:radionovaoslo,Sindre Ihle Clasen,Studentradio
+Radio Oslo,local,Radio Oslo,Oslo,,post@radiooslo.no,,,Oslo,,Arshad Waheed Chaudhry,Flerkulturell
+Radio Øst,local,Radio Øst,Østfold,https://radio-ost.no,post@radio-ost.no,,69 29 42 42,"Sarpsborgveien 7C, 1640 Råde / Postboks 14, 1641 Råde",fb:radioost,Per-Steinar Krogstad,FM 97.3 + DAB
+Radio P5 Fosen,local,P5 Fosen,Trøndelag,https://p5fosen.no,post@p5fosen.no,,,Fosen,,Trond Skjemstad,
+Radio PS Molde,local,Radio PS,Møre og Romsdal,https://radiops.no,post@radiops.no,,,Molde/Romsdal,,Arnstein Sivertsen,
+Radio Rana,local,Radio Rana,Nordland,https://radiorana.no,post@radiorana.no,,,Rana,fb:RadioRanaLokalradio,Oddvar Brennesvik,
+Radio Randsfjord,local,Radio Randsfjord,Innlandet,https://radiorandsfjord.no,tavla@radiorandsfjord.no,anders@radiorandsfjord.no,61 33 88 33,"Granstunet kjøpesenter 2.etg, 2750 Gran / Postboks 56, 2711 Gran",,Anders Taaje,
+Radio Rjukan,local,Radio Rjukan,Telemark,https://radiorjukan.no,post@radiorjukan.no,,35 08 24 20,"Såheimsvegen 30, 3660 Rjukan / Postboks 4, 3661 Rjukan",,Ole Jon Tveito,
+Radio Rox,local,Radio Metro,Oslo,https://radiometro.no,post@radiometro.no,,,"Akersgata 45, 0158 Oslo",,Yvonne Stikbakke,
+Radio Salten,local,Jan Johnsen,Nordland,,post@radiosalten.no,,,Salten,,Jan Johnsen,
+Radio Sandefjord,local,Jærradiogruppen,Vestfold,https://radiosandefjord.no,post@radiosandefjord.no,geir.friberg@radiogrenland.no,33 37 85 55,Sandefjord,,Geir Friberg,
+Radio Sandnes,local,Jærradiogruppen,Rogaland,https://radiosandnes.no,post@radiosandnes.no,aslak.skretting@jaerradiogruppen.no,51 97 92 00,Sandnes,fb:radiosandnes,Aslak Sommerfelt Skretting,
+Radio Sotra,local,Radio Sotra,Vestland,https://radiosotra.no,post@radiosotra.no,,56 31 36 60,Sotra,,Rolf Øvretveit,
+Radio Stryn,local,Fjordingen AS,Vestland,https://radiostryn.no,ove.andre.aarskog@fjordingen.no,post@radiostryn.no,,Stryn,,Ove André Aarskog,
+Radio Sunnmøre,local,Radio Sunnmøre,Møre og Romsdal,https://radiosunnmore.no,post@radiosunnmore.no,,,Sunnmøre,fb:radiosunnmore / ig:radiosunnmore,Ragnhild Espelund,Kristen radio
+Radio Toten,local,Totenradioen,Innlandet,https://totenradioen.no,post@totenradioen.no,,61 19 48 00,Toten,,Kristin Horni,
+Radio Tønsberg,local,Jærradiogruppen,Vestfold,https://radiotonsberg.no,post@radiotonsberg.no,geir.friberg@radiogrenland.no,33 37 85 55,"Halfdan Wilhelmsens allé 52, 3117 Tønsberg",fb:radiotonsberg / ig:radiotonsberg,Geir Friberg,
+Radio Tromsø,local,Jan Johnsen Media,Troms,https://radiotromso.no,studio@radiotromso.no,salg@radiotromso.no,776 90 000,"Postboks 1090, 9261 Tromsø",,Jan Johnsen,
+Radio Trøndelag,local,Radio Trøndelag,Trøndelag,https://radiotrondelag.no,post@radiotrondelag.no,,,Trøndelag,fb:radiotrondelag / ig:radiotrondelag,Anne Leinum,
+Radio Vest-Telemark,local,Radio Vest-Telemark,Telemark,,post@radiovesttelemark.no,,,Vest-Telemark,,Jan Vidar Holte,
+Radio Visjon,local,Visjon Norge,Buskerud,https://visjonnorge.com,post@visjonnorge.com,,,Buskerud,,Jan Hanvold,Kristen
+RadiOrakel,local,RadiOrakel,Oslo,https://radiorakel.no,post@radiorakel.no,,,Oslo,,Hanne Rye Hansen,Kvinneradio
+RadiOs,local,RadiOs,Vestland,https://radios.no,redaksjonen@radios.no,,56 30 14 30,"Øyro 37, 5200 Os",,Kenneth Normann (red.),FM 103.2/105.1
+ScanSat,local,ScanSat,Rogaland,https://scansat.no,post@scansat.no,,,Rogaland,,Arnt Håkon Gunstead,
+Solradioen,local,Solradioen AS,Østfold,https://solradioen.no,post@solradioen.no,,99 19 37 81,"Flatebyveien 9, 1792 Tistedal",,Jon Torp,
+Sørlandsradioen,local,Sørlandsradioen,Agder,https://sorlandsradioen.no,musikk@sorlandsradioen.no,202504@sorlandsradioen.no,45 85 66 66,Arendal/Agder,,Jonas Bording,Egen musikk-epost!
+Studentradioen i Bergen (SRiB),local,Studentersamfundet UiB,Vestland,https://srib.no,daglig.leder@srib.no,,995 87 363,"Studentsenteret, Parkveien 1, 5007 Bergen",fb/ig/tt:srib,Vilde Havn,
+ØsterdalsRadioen,local,Lokalradioene i Innlandet (Radioene),Innlandet,https://radioene.no/osterdalsradioen/,bjorn-martin.brandett@radioene.no,,977 60 082,Østerdalen,,Bjørn-Martin Brandett,
+Solørradioen,local,Lokalradioene i Innlandet (Radioene),Innlandet,https://radioene.no/solorradioen/,bjorn-martin.brandett@radioene.no,,977 60 082,Solør,,Bjørn-Martin Brandett,
+TrysilRadioen,local,Lokalradioene i Innlandet (Radioene),Innlandet,https://radioene.no/trysilradioen/,bjorn-martin.brandett@radioene.no,,977 60 082,Trysil,,Bjørn-Martin Brandett,
+Valdres Radio,local,Valdres Radio,Innlandet,https://valdresradio.com,valdresrad@gmail.com,,61 35 99 70,"Skrautvålsvegen 85, 2900 Fagernes / Postboks 223, 2901 Fagernes",,Siv Monica Sletten,
+Valle Radio,local,Valle Radio,Agder,https://valleradio.com,post@valleradio.com,,,Setesdal,,Ørnulf Hasla,
+Voice Of Oslo,local,Voice of Oslo,Oslo,https://voiceofoslo.com,post@voiceofoslo.com,,,Oslo,,Aziz Rehman,Flerkulturell
+Lokalradioene i Innlandet (Radioene),group-hq,Lokalradioene i Innlandet,Innlandet,https://radioene.no,bjorn-martin.brandett@radioene.no,leif.tore.suren@radioene.no,977 60 082,Innlandet,,Bjørn-Martin Brandett,"Musikk: Leif Tore Surén / 995 12 690"
+Jærradiogruppen,group-hq,Jærradiogruppen AS,Nasjonalt,https://jaerradiogruppen.no,post@jaerradiogruppen.no,herman.skretting@jrg.no,51 97 92 00,Stavanger,,Herman Skretting (konsernred.),Eier ~9 lokalradioer
+Norsk Lokalradioforbund,industry-org,Norsk Lokalradioforbund,Hele Norge,https://www.lokalradio.no,post@lokalradio.no,,22 40 27 20,"Tollbodgata 2, 4611 Kristiansand",,,Bransjeorg for 120+ lokalradioer
+TrysilRadioen,local,Lokalradioene i Innlandet,Innlandet,https://radioene.no/trysilradioen/,bjorn-martin.brandett@radioene.no,,977 60 082,Trysil,,,
+Norea Radio,local,Norea Mediemisjon,Hele Norge,https://norea.no,post@norea.no,,38 14 50 20,"Bergtorasvei 120, 4633 Kristiansand",,,Kristen radio - distribuerer til flere FM/DAB
+Norea Radio Oslo,local,Norea Mediemisjon,Oslo,https://norea.no,post@norea.no,,38 14 50 20,Oslo,,,FM 107.7
+pTro,local,Norea Mediemisjon,Hele Norge,https://norea.no,post@norea.no,,38 14 50 20,Flere regioner,,,DAB+ flere steder + FM Kristiansand/Stavanger
+Misjonsradioen Sandefjord,local,Misjonsradioen,Vestfold,,post@misjonsradioen.no,,,Sandefjord,,,FM Vestfold
+Larvik Kristne Radio,local,Larvik Kristne Radio,Vestfold,,post@larvikkristneradio.no,,,Larvik,,,FM Vestfold
+Radio Nordvest,local,Radio Nordvest,Møre og Romsdal,,post@radionordvest.no,,,Møre og Romsdal,,,
+Radio Haugaland,local,Radio Haugaland,Rogaland,,post@radiohaugaland.no,,,Haugaland,,,
+Mjøsradioen,local,Mjøsradioen,Innlandet,,post@mjosradioen.no,,,Hamar/Hedmark,,,
+Radio RV,local,Radio Revolt,Trøndelag,https://radiorevolt.no,post@radiorevolt.no,,,Trondheim,,,Studentradio Trondheim
+Radio Sesam,local,Radio Sesam,Trøndelag,,post@radiosesam.no,,,Trondheim,,,Flerkulturell
+Radio Vest,local,Radio Vest,Rogaland,,post@radiovest.no,,,Stavanger,,,
+Siddis Radio,local,Siddis Radio,Rogaland,,post@siddisradio.no,,,Stavanger,,,
+Acem Radio,local,Acem,Oslo,,post@acem.no,,,Oslo,,,
+Radio Vefsn,local,Radio Vefsn,Nordland,,post@radiovefsn.no,,,Mosjøen,,,
+Solradioen Halden,local,Solradioen,Østfold,https://solradioen.no,post@solradioen.no,,99 19 37 81,Halden,,Jon Torp,
+Våler Nærradio,local,Våler Nærradio,Innlandet,,post@valernerradio.no,,,"Våler, Hedmark",,,
+Radio Fosen,local,Radio Fosen,Trøndelag,,post@radiofosen.no,,,Fosenhalvøya,,,
+Guovdageainnu Lagasradio,local,Guovdageainnu Lagasradio,Finnmark,,post@guovdageainnu.no,,,Kautokeino,,,Samisk
+Nærkanalen,local,Nærkanalen,Akershus,,post@narkanalen.no,,,Akershus,,,
+FM 8000 Bodø,local,FM 8000,Nordland,,post@fm8000.no,,,Bodø,,,
+Radio Øksnes,local,Radio Øksnes,Nordland,,post@radiooksnes.no,,,Øksnes,,,
+Ordentlig Radio,local,Ordentlig Radio,Hele Norge,,post@ordentligradio.no,,,Hele Norge,,,DAB
+The Beat,regional,Bauer Media,Flere byer,https://radioplay.no/the-beat/,hei@radionorge.no,,22 02 32 00,"Jernbanetorget 4a, 0154 Oslo",,,
+Radio 1 Bergen,regional,Radio 1,Vestland,,post@radio1bergen.no,,,Bergen,,,
+Radio 1 Trondheim,regional,Radio 1,Trøndelag,,post@radio1trondheim.no,,,Trondheim,,,
+NRJ Oslo,regional,P4-gruppen,Oslo,https://www.nrj.no,musikk@p4.no,,61 24 84 44,Oslo,,,
+NRJ Bergen,regional,P4-gruppen,Vestland,https://www.nrj.no,musikk@p4.no,,61 24 84 44,Bergen,,,
+NRJ Stavanger,regional,P4-gruppen,Rogaland,https://www.nrj.no,musikk@p4.no,,61 24 84 44,Stavanger,,,
+NRJ Trondheim,regional,P4-gruppen,Trøndelag,https://www.nrj.no,musikk@p4.no,,61 24 84 44,Trondheim,,,
+NRK P1 Østfold,national-public-regional,NRK,Østfold,https://www.nrk.no/ostfold/,ostfold.nrk@nrk.no,,69 24 36 00,Fredrikstad,,,
+NRK P1 Oslo og Akershus,national-public-regional,NRK,Oslo/Akershus,https://www.nrk.no/osloogviken/,oslo@nrk.no,,23 04 80 00,Oslo,,,
+NRK P1 Hedmark og Oppland,national-public-regional,NRK,Innlandet,https://www.nrk.no/innlandet/,innlandet@nrk.no,,,Hamar/Lillehammer,,,
+NRK P1 Buskerud,national-public-regional,NRK,Buskerud,https://www.nrk.no/buskerud/,buskerud@nrk.no,,,Drammen,,,
+NRK P1 Vestfold,national-public-regional,NRK,Vestfold,https://www.nrk.no/vestfoldogtelemark/,vestfold@nrk.no,,,Tønsberg,,,
+NRK P1 Telemark,national-public-regional,NRK,Telemark,https://www.nrk.no/vestfoldogtelemark/,telemark@nrk.no,,,Skien,,,
+NRK P1 Sørlandet,national-public-regional,NRK,Agder,https://www.nrk.no/sorlandet/,sorlandet@nrk.no,,,Kristiansand,,,
+NRK P1 Rogaland,national-public-regional,NRK,Rogaland,https://www.nrk.no/rogaland/,rogaland@nrk.no,,,Stavanger,,,
+NRK P1 Hordaland,national-public-regional,NRK,Vestland,https://www.nrk.no/vestland/,hordaland@nrk.no,,,Bergen,,,
+NRK P1 Sogn og Fjordane,national-public-regional,NRK,Vestland,https://www.nrk.no/vestland/,sognogfjordane@nrk.no,,,Førde,,,
+NRK P1 Møre og Romsdal,national-public-regional,NRK,Møre og Romsdal,https://www.nrk.no/mr/,mr@nrk.no,,,Molde,,,
+NRK P1 Trøndelag,national-public-regional,NRK,Trøndelag,https://www.nrk.no/trondelag/,trondelag@nrk.no,,,Trondheim,,,
+NRK P1 Nordland,national-public-regional,NRK,Nordland,https://www.nrk.no/nordland/,nordland@nrk.no,,,Bodø,,,
+NRK P1 Troms,national-public-regional,NRK,Troms,https://www.nrk.no/tromsogfinnmark/,troms@nrk.no,,,Tromsø,,,
+NRK P1 Finnmark,national-public-regional,NRK,Finnmark,https://www.nrk.no/tromsogfinnmark/,finnmark@nrk.no,,,Vadsø,,,
