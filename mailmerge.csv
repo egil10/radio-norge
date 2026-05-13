@@ -1,131 +1,242 @@
 email,first_name,station_name,region,type
-musikkinntak@nrk.no,Musikkredaksjonen,NRK Digital Music Archive,Hele Norge,nasjonal
-musikkprodusenter.p1@nrk.no,Atle,NRK P1,Hele Norge,nasjonal
-ingvei.eikaas@nrk.no,Ingvei,NRK P2,Hele Norge,nasjonal
-musikkprodusenterp3@nrk.no,Musikkredaksjonen,NRK P3 / mP3,Hele Norge,nasjonal
-ida.eline.tangen@nrk.no,Ida,NRK P3,Hele Norge,nasjonal
-kristin.winsents@nrk.no,Kristin,NRK P13,Hele Norge,nasjonal
-leiv.solberg@nrk.no,Leiv,NRK Folkemusikk,Hele Norge,nasjonal
-nyheter.sapmi@nrk.no,Redaksjonen,NRK Sápmi,Sápmi,nasjonal
-ostfold@nrk.no,Redaksjonen,NRK P1 Østfold,Østfold,regional
-oslo@nrk.no,Redaksjonen,NRK P1 Oslo og Akershus,Oslo,regional
-innlandet@nrk.no,Redaksjonen,NRK P1 Innlandet,Innlandet,regional
-buskerud@nrk.no,Redaksjonen,NRK P1 Buskerud,Buskerud,regional
-vestfold@nrk.no,Redaksjonen,NRK P1 Vestfold,Vestfold,regional
-telemark@nrk.no,Redaksjonen,NRK P1 Telemark,Telemark,regional
-sorlandet@nrk.no,Redaksjonen,NRK P1 Sørlandet,Agder,regional
-rogaland@nrk.no,Redaksjonen,NRK P1 Rogaland,Rogaland,regional
-hordaland@nrk.no,Redaksjonen,NRK P1 Hordaland,Vestland,regional
-sognogfjordane@nrk.no,Redaksjonen,NRK P1 Sogn og Fjordane,Vestland,regional
-mr@nrk.no,Redaksjonen,NRK P1 Møre og Romsdal,Møre og Romsdal,regional
-trondelag@nrk.no,Redaksjonen,NRK P1 Trøndelag,Trøndelag,regional
-nordland@nrk.no,Redaksjonen,NRK P1 Nordland,Nordland,regional
-troms@nrk.no,Redaksjonen,NRK P1 Troms,Troms,regional
-finnmark@nrk.no,Redaksjonen,NRK P1 Finnmark,Finnmark,regional
-musikk@p4.no,Musikkredaksjonen,P4-gruppen (P4/P5/P6/P7/P8/P9/P10/P11/NRJ),Hele Norge,nasjonal
-hei@radionorge.no,Redaksjonen,Radio Norge (Bauer Media),Hele Norge,nasjonal
-kristoffer.vangen@bauermedia.no,Kristoffer,Bauer Media,Hele Norge,nasjonal
-post@1fm.no,Stian,1FM Molde,Møre og Romsdal,lokal
-post@bergenkringkaster.no,Svenn,Bergen Kringkaster,Vestland,lokal
-post@buskerudmedia.no,Henrik,Buskerud Media,Buskerud,lokal
-post@bygderadiovest.no,Gunnar,Bygderadio Vest,Møre og Romsdal,lokal
-post@clasico.no,Herman,Clásico,Rogaland,lokal
-post@radiometro.no,Yvonne,Radio Metro / Heart / Rox / Dansebandradioen,Oslo,lokal
-bjorn-martin.brandett@radioene.no,Bjørn-Martin,Radioene (HamarRadioen / ElverumsRadioen / Gudbrandsdals / Østerdals / Trysil / Solør / Kongsvinger),Innlandet,lokal
-leif.tore.suren@radioene.no,Leif Tore,Radioene musikk,Innlandet,lokal
-post@jaerradioen.no,Aslak,JærRadioen,Rogaland,lokal
-post@jaerradiogruppen.no,Herman,Jærradiogruppen (9 stasjoner),Nasjonalt,konsern
-aslak.skretting@jaerradiogruppen.no,Aslak,Jærradiogruppen,Nasjonalt,konsern
-herman.skretting@jrg.no,Herman,Jærradiogruppen konsernred,Nasjonalt,konsern
-post@kanal7.no,Ronald,Kanal 7,Oslo,lokal
-post@nearadio.no,Stian,Nea Radio,Trøndelag,lokal
-karin@nearadio.no,Karin,Nea Radio,Trøndelag,lokal
-post@radio102.no,Thor Magnar,Radio 102,Rogaland,lokal
-tmt@radio102.no,Thor Magnar,Radio 102,Rogaland,lokal
-studio@radio3.no,Benjamin,Radio 3 Bodø,Nordland,lokal
-post@radio316.no,Margrethe,Radio 3:16,Agder,lokal
-post@radioaalesund.no,Aslak,Radio Ålesund,Møre og Romsdal,lokal
-post@radioalta.no,Tor,Radio Alta,Finnmark,lokal
-post@radioaskoy.no,Marie,Radio Askøy,Vestland,lokal
-post@radioatlantic.no,Aslak,Radio Atlantic,Rogaland,lokal
-post@bardufoss.no,Jan,Radio Bardufoss,Troms,lokal
-post@radiobo.no,Wiveca,Radio Bø,Nordland,lokal
-post@radiodsf.no,Tormod,Radio DSF,Finnmark,lokal
-post@radiofolgefonn.no,Knut,Radio Folgefonn,Vestland,lokal
-post@radiofredrikstad.no,Eilen,Radio Fredrikstad,Østfold,lokal
-post@radiogrenland.no,Geir,Radio Grenland,Telemark,lokal
-geir.friberg@radiogrenland.no,Geir,Radio Grenland,Telemark,lokal
-post@radiohallingdal.no,Mia,Radio Hallingdal,Buskerud,lokal
-post@radioharstad.no,Tommy,Radio Harstad,Troms,lokal
-post@interfm.no,Dogan,Radio Inter FM,Oslo,lokal
-post@radiokorgen.no,Terje,Radio Korgen,Nordland,lokal
-terje@radiokorgen.no,Terje,Radio Korgen,Nordland,lokal
-post@radiokos.no,Jan Einar,Radio Kos,Rogaland,lokal
-post@ksu247.no,Charles,Radio KSU 24/7,Møre og Romsdal,lokal
-cw@ksu247.no,Charles,Radio KSU 24/7,Møre og Romsdal,lokal
-post@radio-l.no,Solveig,Radio L,Agder,lokal
-post@radiolatinamerika.no,Hans,Radio Latin-Amerika,Oslo,lokal
-post@radiololand.no,Frode,Radio Loland,Agder,lokal
-frode@radiololand.no,Frode,Radio Loland,Agder,lokal
-melding@radioluster.no,Finn,Radio Luster,Vestland,lokal
-post@radiolyngdal.no,Stein Helge,Radio Lyngdal,Agder,lokal
-post@mehamn.net,Alf Kåre,Radio Mehamn,Finnmark,lokal
-post@radiomg.no,Ole Andre,Radio MG,Telemark,lokal
-post@radiomodum.no,Henrik,Radio Modum,Buskerud,lokal
-kontakt@radionordkapp.no,Raymond,Radio Nordkapp,Finnmark,lokal
-post@radionordsjo.no,Aslak,Radio Nordsjø,Rogaland,lokal
-post@radionotodden.no,Thomas,Radio Notodden,Telemark,lokal
-post@radionova.no,Sindre,Radio Nova,Oslo,lokal
-post@radio-ost.no,Per-Steinar,Radio Øst,Østfold,lokal
-post@p5fosen.no,Trond,Radio P5 Fosen,Trøndelag,lokal
-post@radiops.no,Arnstein,Radio PS Molde,Møre og Romsdal,lokal
-post@radiorana.no,Oddvar,Radio Rana,Nordland,lokal
-tavla@radiorandsfjord.no,Anders,Radio Randsfjord,Innlandet,lokal
-anders@radiorandsfjord.no,Anders,Radio Randsfjord,Innlandet,lokal
-post@radiorjukan.no,Ole Jon,Radio Rjukan,Telemark,lokal
-post@radiosandefjord.no,Geir,Radio Sandefjord,Vestfold,lokal
-post@radiosandnes.no,Aslak,Radio Sandnes,Rogaland,lokal
-post@radiosotra.no,Rolf,Radio Sotra,Vestland,lokal
-ove.andre.aarskog@fjordingen.no,Ove André,Radio Stryn,Vestland,lokal
-post@radiosunnmore.no,Ragnhild,Radio Sunnmøre,Møre og Romsdal,lokal
-post@totenradioen.no,Kristin,Radio Toten,Innlandet,lokal
-post@radiotonsberg.no,Geir,Radio Tønsberg,Vestfold,lokal
-studio@radiotromso.no,Jan,Radio Tromsø,Troms,lokal
-post@radiotrondelag.no,Anne,Radio Trøndelag,Trøndelag,lokal
-post@visjonnorge.com,Jan,Radio Visjon,Buskerud,lokal
-post@radiorakel.no,Hanne,RadiOrakel,Oslo,lokal
-redaksjonen@radios.no,Kenneth,RadiOs,Vestland,lokal
-post@scansat.no,Arnt Håkon,ScanSat,Rogaland,lokal
-post@solradioen.no,Jon,Solradioen,Østfold,lokal
-musikk@sorlandsradioen.no,Musikkredaksjonen,Sørlandsradioen,Agder,lokal
-daglig.leder@srib.no,Vilde,Studentradioen i Bergen,Vestland,lokal
-valdresrad@gmail.com,Siv Monica,Valdres Radio,Innlandet,lokal
-post@valleradio.com,Ørnulf,Valle Radio,Agder,lokal
-post@voiceofoslo.com,Aziz,Voice Of Oslo,Oslo,lokal
-post@lokalradio.no,Forbundet,Norsk Lokalradioforbund,Hele Norge,bransjeorg
-post@norea.no,Redaksjonen,Norea Radio / pTro / Norea Radio Oslo,Hele Norge,lokal
-post@misjonsradioen.no,Redaksjonen,Misjonsradioen Sandefjord,Vestfold,lokal
-post@larvikkristneradio.no,Redaksjonen,Larvik Kristne Radio,Vestfold,lokal
-post@radionordvest.no,Redaksjonen,Radio Nordvest,Møre og Romsdal,lokal
-post@radiohaugaland.no,Redaksjonen,Radio Haugaland,Rogaland,lokal
-post@mjosradioen.no,Redaksjonen,Mjøsradioen,Innlandet,lokal
-post@radiorevolt.no,Redaksjonen,Radio Revolt,Trøndelag,lokal
-post@radiosesam.no,Redaksjonen,Radio Sesam,Trøndelag,lokal
-post@radiovest.no,Redaksjonen,Radio Vest,Rogaland,lokal
-post@siddisradio.no,Redaksjonen,Siddis Radio,Rogaland,lokal
-post@radiovefsn.no,Redaksjonen,Radio Vefsn,Nordland,lokal
-post@valernerradio.no,Redaksjonen,Våler Nærradio,Innlandet,lokal
-post@radiofosen.no,Redaksjonen,Radio Fosen,Trøndelag,lokal
-post@narkanalen.no,Redaksjonen,Nærkanalen,Akershus,lokal
-post@fm8000.no,Redaksjonen,FM 8000 Bodø,Nordland,lokal
-post@radiooksnes.no,Redaksjonen,Radio Øksnes,Nordland,lokal
-post@ordentligradio.no,Redaksjonen,Ordentlig Radio,Hele Norge,nasjonal
-post@radio1bergen.no,Redaksjonen,Radio 1 Bergen,Vestland,regional
-post@radio1trondheim.no,Redaksjonen,Radio 1 Trondheim,Trøndelag,regional
-post@radiooslo.no,Redaksjonen,Radio Oslo,Oslo,lokal
-post@radiomidttroms.no,Redaksjonen,Radio Midt-Troms,Troms,lokal
-post@radionord.no,Redaksjonen,Radio Nord,Troms,lokal
-post@radiosalten.no,Redaksjonen,Radio Salten,Nordland,lokal
-post@radiovesttelemark.no,Redaksjonen,Radio Vest-Telemark,Telemark,lokal
-post@guovdageainnu.no,Redaksjonen,Guovdageainnu Lagasradio,Finnmark,lokal
-post@acem.no,Redaksjonen,Acem Radio,Oslo,lokal
+musikkinntak@nrk.no,Musikkredaksjonen,NRK Digital Music Archive,Hele Norge,radio-nasjonal
+musikkprodusenter.p1@nrk.no,Atle,NRK P1,Hele Norge,radio-nasjonal
+ingvei.eikaas@nrk.no,Ingvei,NRK P2,Hele Norge,radio-nasjonal
+musikkprodusenterp3@nrk.no,Musikkredaksjonen,NRK P3 / mP3,Hele Norge,radio-nasjonal
+ida.eline.tangen@nrk.no,Ida,NRK P3,Hele Norge,radio-nasjonal
+kristin.winsents@nrk.no,Kristin,NRK P13,Hele Norge,radio-nasjonal
+leiv.solberg@nrk.no,Leiv,NRK Folkemusikk,Hele Norge,radio-nasjonal
+nyheter.sapmi@nrk.no,Redaksjonen,NRK Sápmi,Sápmi,radio-nasjonal
+sporten@nrk.no,Sportsredaksjonen,NRK Sport,Hele Norge,medie-sport
+nettsport@nrk.no,Nettsporten,NRK Sport (nett),Hele Norge,medie-sport
+03030@nrk.no,Tipsredaksjonen,NRK Tips,Hele Norge,medie-tips
+heiafotball@nrk.no,Redaksjonen,Heia Fotball podkast,Hele Norge,medie-podkast
+kultur@nrk.no,Kulturredaksjonen,NRK Kultur,Hele Norge,medie-kultur
+sokrates@nrk.no,Redaksjonen,NRK Studio Sokrates (AI/tech),Hele Norge,medie-kultur
+ostfold@nrk.no,Redaksjonen,NRK P1 Østfold,Østfold,radio-regional
+oslo@nrk.no,Redaksjonen,NRK P1 Oslo og Akershus,Oslo,radio-regional
+innlandet@nrk.no,Redaksjonen,NRK P1 Innlandet,Innlandet,radio-regional
+buskerud@nrk.no,Redaksjonen,NRK P1 Buskerud,Buskerud,radio-regional
+vestfold@nrk.no,Redaksjonen,NRK P1 Vestfold,Vestfold,radio-regional
+telemark@nrk.no,Redaksjonen,NRK P1 Telemark,Telemark,radio-regional
+sorlandet@nrk.no,Redaksjonen,NRK P1 Sørlandet,Agder,radio-regional
+rogaland@nrk.no,Redaksjonen,NRK P1 Rogaland,Rogaland,radio-regional
+hordaland@nrk.no,Redaksjonen,NRK P1 Hordaland,Vestland,radio-regional
+sognogfjordane@nrk.no,Redaksjonen,NRK P1 Sogn og Fjordane,Vestland,radio-regional
+mr@nrk.no,Redaksjonen,NRK P1 Møre og Romsdal,Møre og Romsdal,radio-regional
+trondelag@nrk.no,Redaksjonen,NRK P1 Trøndelag,Trøndelag,radio-regional
+nordland@nrk.no,Redaksjonen,NRK P1 Nordland,Nordland,radio-regional
+troms@nrk.no,Redaksjonen,NRK P1 Troms,Troms,radio-regional
+finnmark@nrk.no,Redaksjonen,NRK P1 Finnmark,Finnmark,radio-regional
+musikk@p4.no,Musikkredaksjonen,P4-gruppen (P4/P5/P6/P7/P8/P9/P10/P11/NRJ),Hele Norge,radio-nasjonal
+hei@radionorge.no,Redaksjonen,Radio Norge (Bauer Media),Hele Norge,radio-nasjonal
+kristoffer.vangen@bauermedia.no,Kristoffer,Bauer Media,Hele Norge,radio-nasjonal
+post@1fm.no,Stian,1FM Molde,Møre og Romsdal,radio-lokal
+post@bergenkringkaster.no,Svenn,Bergen Kringkaster,Vestland,radio-lokal
+post@buskerudmedia.no,Henrik,Buskerud Media,Buskerud,radio-lokal
+post@bygderadiovest.no,Gunnar,Bygderadio Vest,Møre og Romsdal,radio-lokal
+post@clasico.no,Herman,Clásico,Rogaland,radio-lokal
+post@radiometro.no,Yvonne,Radio Metro / Heart / Rox / Dansebandradioen,Oslo,radio-lokal
+bjorn-martin.brandett@radioene.no,Bjørn-Martin,Radioene (7 stasjoner Innlandet),Innlandet,radio-lokal
+leif.tore.suren@radioene.no,Leif Tore,Radioene musikk,Innlandet,radio-lokal
+post@jaerradioen.no,Aslak,JærRadioen,Rogaland,radio-lokal
+post@jaerradiogruppen.no,Herman,Jærradiogruppen (9 stasjoner),Nasjonalt,radio-konsern
+aslak.skretting@jaerradiogruppen.no,Aslak,Jærradiogruppen,Nasjonalt,radio-konsern
+herman.skretting@jrg.no,Herman,Jærradiogruppen konsernred,Nasjonalt,radio-konsern
+post@kanal7.no,Ronald,Kanal 7,Oslo,radio-lokal
+post@nearadio.no,Stian,Nea Radio,Trøndelag,radio-lokal
+karin@nearadio.no,Karin,Nea Radio,Trøndelag,radio-lokal
+post@radio102.no,Thor Magnar,Radio 102,Rogaland,radio-lokal
+tmt@radio102.no,Thor Magnar,Radio 102,Rogaland,radio-lokal
+studio@radio3.no,Benjamin,Radio 3 Bodø,Nordland,radio-lokal
+post@radio316.no,Margrethe,Radio 3:16,Agder,radio-lokal
+post@radioaalesund.no,Aslak,Radio Ålesund,Møre og Romsdal,radio-lokal
+post@radioalta.no,Tor,Radio Alta,Finnmark,radio-lokal
+post@radioaskoy.no,Marie,Radio Askøy,Vestland,radio-lokal
+post@radioatlantic.no,Aslak,Radio Atlantic,Rogaland,radio-lokal
+post@bardufoss.no,Jan,Radio Bardufoss,Troms,radio-lokal
+post@radiobo.no,Wiveca,Radio Bø,Nordland,radio-lokal
+post@radiodsf.no,Tormod,Radio DSF,Finnmark,radio-lokal
+post@radiofolgefonn.no,Knut,Radio Folgefonn,Vestland,radio-lokal
+post@radiofredrikstad.no,Eilen,Radio Fredrikstad,Østfold,radio-lokal
+post@radiogrenland.no,Geir,Radio Grenland,Telemark,radio-lokal
+geir.friberg@radiogrenland.no,Geir,Radio Grenland,Telemark,radio-lokal
+post@radiohallingdal.no,Mia,Radio Hallingdal,Buskerud,radio-lokal
+post@radioharstad.no,Tommy,Radio Harstad,Troms,radio-lokal
+post@interfm.no,Dogan,Radio Inter FM,Oslo,radio-lokal
+post@radiokorgen.no,Terje,Radio Korgen,Nordland,radio-lokal
+terje@radiokorgen.no,Terje,Radio Korgen,Nordland,radio-lokal
+post@radiokos.no,Jan Einar,Radio Kos,Rogaland,radio-lokal
+post@ksu247.no,Charles,Radio KSU 24/7,Møre og Romsdal,radio-lokal
+cw@ksu247.no,Charles,Radio KSU 24/7,Møre og Romsdal,radio-lokal
+post@radio-l.no,Solveig,Radio L,Agder,radio-lokal
+post@radiolatinamerika.no,Hans,Radio Latin-Amerika,Oslo,radio-lokal
+post@radiololand.no,Frode,Radio Loland,Agder,radio-lokal
+frode@radiololand.no,Frode,Radio Loland,Agder,radio-lokal
+melding@radioluster.no,Finn,Radio Luster,Vestland,radio-lokal
+post@radiolyngdal.no,Stein Helge,Radio Lyngdal,Agder,radio-lokal
+post@mehamn.net,Alf Kåre,Radio Mehamn,Finnmark,radio-lokal
+post@radiomg.no,Ole Andre,Radio MG,Telemark,radio-lokal
+post@radiomodum.no,Henrik,Radio Modum,Buskerud,radio-lokal
+kontakt@radionordkapp.no,Raymond,Radio Nordkapp,Finnmark,radio-lokal
+post@radionordsjo.no,Aslak,Radio Nordsjø,Rogaland,radio-lokal
+post@radionotodden.no,Thomas,Radio Notodden,Telemark,radio-lokal
+post@radionova.no,Sindre,Radio Nova,Oslo,radio-lokal
+post@radio-ost.no,Per-Steinar,Radio Øst,Østfold,radio-lokal
+post@p5fosen.no,Trond,Radio P5 Fosen,Trøndelag,radio-lokal
+post@radiops.no,Arnstein,Radio PS Molde,Møre og Romsdal,radio-lokal
+post@radiorana.no,Oddvar,Radio Rana,Nordland,radio-lokal
+tavla@radiorandsfjord.no,Anders,Radio Randsfjord,Innlandet,radio-lokal
+anders@radiorandsfjord.no,Anders,Radio Randsfjord,Innlandet,radio-lokal
+post@radiorjukan.no,Ole Jon,Radio Rjukan,Telemark,radio-lokal
+post@radiosandefjord.no,Geir,Radio Sandefjord,Vestfold,radio-lokal
+post@radiosandnes.no,Aslak,Radio Sandnes,Rogaland,radio-lokal
+post@radiosotra.no,Rolf,Radio Sotra,Vestland,radio-lokal
+ove.andre.aarskog@fjordingen.no,Ove André,Radio Stryn,Vestland,radio-lokal
+post@radiosunnmore.no,Ragnhild,Radio Sunnmøre,Møre og Romsdal,radio-lokal
+post@totenradioen.no,Kristin,Radio Toten,Innlandet,radio-lokal
+post@radiotonsberg.no,Geir,Radio Tønsberg,Vestfold,radio-lokal
+studio@radiotromso.no,Jan,Radio Tromsø,Troms,radio-lokal
+post@radiotrondelag.no,Anne,Radio Trøndelag,Trøndelag,radio-lokal
+post@visjonnorge.com,Jan,Radio Visjon,Buskerud,radio-lokal
+post@radiorakel.no,Hanne,RadiOrakel,Oslo,radio-lokal
+redaksjonen@radios.no,Kenneth,RadiOs,Vestland,radio-lokal
+post@scansat.no,Arnt Håkon,ScanSat,Rogaland,radio-lokal
+post@solradioen.no,Jon,Solradioen,Østfold,radio-lokal
+musikk@sorlandsradioen.no,Musikkredaksjonen,Sørlandsradioen,Agder,radio-lokal
+daglig.leder@srib.no,Vilde,Studentradioen i Bergen,Vestland,radio-lokal
+valdresrad@gmail.com,Siv Monica,Valdres Radio,Innlandet,radio-lokal
+post@valleradio.com,Ørnulf,Valle Radio,Agder,radio-lokal
+post@voiceofoslo.com,Aziz,Voice Of Oslo,Oslo,radio-lokal
+post@lokalradio.no,Forbundet,Norsk Lokalradioforbund,Hele Norge,radio-bransje
+post@norea.no,Redaksjonen,Norea Radio / pTro,Hele Norge,radio-lokal
+post@misjonsradioen.no,Redaksjonen,Misjonsradioen Sandefjord,Vestfold,radio-lokal
+post@larvikkristneradio.no,Redaksjonen,Larvik Kristne Radio,Vestfold,radio-lokal
+post@radionordvest.no,Redaksjonen,Radio Nordvest,Møre og Romsdal,radio-lokal
+post@radiohaugaland.no,Redaksjonen,Radio Haugaland,Rogaland,radio-lokal
+post@mjosradioen.no,Redaksjonen,Mjøsradioen,Innlandet,radio-lokal
+post@radiorevolt.no,Redaksjonen,Radio Revolt,Trøndelag,radio-lokal
+post@radiosesam.no,Redaksjonen,Radio Sesam,Trøndelag,radio-lokal
+post@radiovest.no,Redaksjonen,Radio Vest,Rogaland,radio-lokal
+post@siddisradio.no,Redaksjonen,Siddis Radio,Rogaland,radio-lokal
+post@radiovefsn.no,Redaksjonen,Radio Vefsn,Nordland,radio-lokal
+post@valernerradio.no,Redaksjonen,Våler Nærradio,Innlandet,radio-lokal
+post@radiofosen.no,Redaksjonen,Radio Fosen,Trøndelag,radio-lokal
+post@narkanalen.no,Redaksjonen,Nærkanalen,Akershus,radio-lokal
+post@fm8000.no,Redaksjonen,FM 8000 Bodø,Nordland,radio-lokal
+post@radiooksnes.no,Redaksjonen,Radio Øksnes,Nordland,radio-lokal
+post@ordentligradio.no,Redaksjonen,Ordentlig Radio,Hele Norge,radio-nasjonal
+post@radio1bergen.no,Redaksjonen,Radio 1 Bergen,Vestland,radio-regional
+post@radio1trondheim.no,Redaksjonen,Radio 1 Trondheim,Trøndelag,radio-regional
+post@radiooslo.no,Redaksjonen,Radio Oslo,Oslo,radio-lokal
+post@radiomidttroms.no,Redaksjonen,Radio Midt-Troms,Troms,radio-lokal
+post@radionord.no,Redaksjonen,Radio Nord,Troms,radio-lokal
+post@radiosalten.no,Redaksjonen,Radio Salten,Nordland,radio-lokal
+post@radiovesttelemark.no,Redaksjonen,Radio Vest-Telemark,Telemark,radio-lokal
+post@guovdageainnu.no,Redaksjonen,Guovdageainnu Lagasradio,Finnmark,radio-lokal
+post@acem.no,Redaksjonen,Acem Radio,Oslo,radio-lokal
+ragnhildask.connell@fotball.no,Ragnhild,NFF Kommunikasjonsdirektør,Oslo,forbund
+yngve.haavik@fotball.no,Yngve,NFF Kommunikasjonssjef,Oslo,forbund
+msw@fotball.no,Mari,NFF Presseredaktør,Oslo,forbund
+mms@fotball.no,Morten,NFF Medieansvarlig herrelandslag,Oslo,forbund
+carinaolset.hovda@fotball.no,Carina,NFF Medieansvarlig kvinnelandslag,Oslo,forbund
+AnnikenSaetre.Pedersen@fotball.no,Anniken,NFF Social Media Manager,Oslo,forbund
+freddydos.santos@fotball.no,Freddy,NFF Supporterkoordinator,Oslo,forbund
+billett@oljeberget.no,Redaksjonen,Oljeberget (landslagets supporterklubb),Oslo,supporter
+post@klanen.no,Redaksjonen,Klanen (Vålerenga supporter),Oslo,supporter
+bataljonen@bataljonen.no,Morten,Bataljonen (Brann supporter),Bergen,supporter
+post@vif-fotball.no,Pressen,Vålerenga FK,Oslo,fotballklubb
+kontakt@brann.no,Pressen,Brann,Bergen,fotballklubb
+glimt@glimt.no,Simen,Bodø/Glimt,Bodø,fotballklubb
+simen@glimt.no,Simen,Bodø/Glimt medieansvarlig,Bodø,fotballklubb
+post@moldefk.no,Per,Molde FK,Molde,fotballklubb
+per.lianes@moldefk.no,Per,Molde FK mediedirektør,Molde,fotballklubb
+kontakt@rbk.no,Pressen,Rosenborg BK,Trondheim,fotballklubb
+kontakt@viking-fk.no,Pressen,Viking FK,Stavanger,fotballklubb
+kontakt@til.no,Pressen,Tromsø IL,Tromsø,fotballklubb
+kontakt@sarpsborg08.no,Pressen,Sarpsborg 08,Sarpsborg,fotballklubb
+post@fredrikstadfk.no,Pressen,Fredrikstad FK,Fredrikstad,fotballklubb
+post@hamkam.no,Pressen,HamKam,Hamar,fotballklubb
+post@kristiansundbk.no,Pressen,Kristiansund BK,Kristiansund,fotballklubb
+post@kfumoslo.no,Pressen,KFUM Oslo,Oslo,fotballklubb
+post@lsk.no,Pressen,Lillestrøm SK,Lillestrøm,fotballklubb
+post@aafk.no,Pressen,AaFK Aalesund,Ålesund,fotballklubb
+post@ikstart.no,Pressen,IK Start,Kristiansand,fotballklubb
+post@sandefjordfotball.no,Pressen,Sandefjord Fotball,Sandefjord,fotballklubb
+post@godset.no,Pressen,Strømsgodset,Drammen,fotballklubb
+post@fkh.no,Pressen,FK Haugesund,Haugesund,fotballklubb
+post@brynefk.no,Pressen,Bryne FK,Bryne,fotballklubb
+info@fotballfesten.no,Redaksjonen,Fotballfesten Ullevaal+Kongensgate,Oslo,bar-fanzone
+partner@fotballfesten.no,Partneransvarlig,Fotballfesten Partnerships,Oslo,bar-fanzone
+hei@fotballfestispektrum.no,Redaksjonen,Fotballfest i Spektrum Trondheim,Trondheim,bar-fanzone
+salg@resthon.no,Resthon,O'Connor's/Scotsman/Sir Winston-kjede (8+ steder),Hele Norge,bar-fanzone
+post@boxoslo.no,Redaksjonen,Box Sports Solli,Oslo,bar-fanzone
+post@pokalenpub.no,Redaksjonen,Pokalen Vulkan,Oslo,bar-fanzone
+oslocity@fridays.no,Redaksjonen,TGI Fridays Oslo City,Oslo,bar-fanzone
+post@highbury.no,Redaksjonen,Highbury Bogstadveien,Oslo,bar-fanzone
+post@bohemen.no,Redaksjonen,Bohemen,Oslo,bar-fanzone
+post@thewildrover.no,Redaksjonen,The Wild Rover (40 skjermer),Oslo,bar-fanzone
+post@lannisters.no,Redaksjonen,The Lannisters,Oslo,bar-fanzone
+post@beerpalace.no,Redaksjonen,Beer Palace Aker Brygge,Oslo,bar-fanzone
+post@bernies.no,Redaksjonen,Bernie's Sportsbar Grønland,Oslo,bar-fanzone
+post@oldirishpub.no,Redaksjonen,The Old Irish Majorstuen,Oslo,bar-fanzone
+post@taketsteenogstrom.no,Redaksjonen,TAKET Steen & Strøm,Oslo,bar-fanzone
+post@fotballpajordal.no,Redaksjonen,Jordal Amfi VM,Oslo,bar-fanzone
+lincolnpub43@hotmail.com,Redaksjonen,Lincoln Sportsbar,Oslo,bar-fanzone
+post@fotballfestivalen.no,Redaksjonen,FotballFestivalen Festplassen Bergen,Bergen,bar-fanzone
+post@fjordfolk-norway.no,Redaksjonen,Marinehagen Bergen,Bergen,bar-fanzone
+post@fotballpuben.no,Redaksjonen,Fotballpuben Bergen,Bergen,bar-fanzone
+post@metzbergen.no,Redaksjonen,Metz Sportsbar Bergen,Bergen,bar-fanzone
+post@felixbergen.no,Redaksjonen,Felix Bergen,Bergen,bar-fanzone
+post@huset.pub,Redaksjonen,Huset Pub Bergen,Bergen,bar-fanzone
+post@splitt.no,Redaksjonen,Splitt Lagunen Bergen,Bergen,bar-fanzone
+post@finnegans.no,Redaksjonen,Finnegans Bergen,Bergen,bar-fanzone
+post@vm-festen.no,Redaksjonen,Clarion Hotel Trondheim VM,Trondheim,bar-fanzone
+post@lillelondon.no,Redaksjonen,Lille London Trondheim,Trondheim,bar-fanzone
+post@brooklyndiner.no,Redaksjonen,Brooklyn Diner Solsiden,Trondheim,bar-fanzone
+post@cafedublin.no,Redaksjonen,Cafe Dublin Trondheim Torg,Trondheim,bar-fanzone
+post@trondheimstage.no,Redaksjonen,Fotball i Dokken Solsiden,Trondheim,bar-fanzone
+post@havetarena.no,Redaksjonen,Havet Arena Trondheim,Trondheim,bar-fanzone
+post@threelions.no,Redaksjonen,Three Lions Trondheim,Trondheim,bar-fanzone
+post@fotballfestistavanger.no,Redaksjonen,Fotballfest i Stavanger (Fiskepiren+Eastside),Stavanger,bar-fanzone
+post@sportscafeen.no,Redaksjonen,Stavanger Sportscafé,Stavanger,bar-fanzone
+post@beverlystavanger.no,Redaksjonen,Beverly Hills Fun Pub Stavanger,Stavanger,bar-fanzone
+post@madameaase.pub,Redaksjonen,Madame Aase Pub Sandnes,Stavanger,bar-fanzone
+post@stavanger-konserthus.no,Redaksjonen,Stavanger Konserthus VM,Stavanger,bar-fanzone
+post@vmstorskjerm.no,Redaksjonen,Gravane VM Storskjerm,Kristiansand,bar-fanzone
+post@caledonien.no,Redaksjonen,Telfords Pub Caledonien,Kristiansand,bar-fanzone
+post@victoriapub.no,Redaksjonen,Victoria Pub Kristiansand,Kristiansand,bar-fanzone
+post@hvkn.no,Redaksjonen,Håndverkeren Kristiansand,Kristiansand,bar-fanzone
+post@gatewaystudios.no,Redaksjonen,VM-fest Tangenkaia Drammen,Drammen,bar-fanzone
+post@unionscene.no,Redaksjonen,Union Scene Drammen,Drammen,bar-fanzone
+post@kingsarms.no,Redaksjonen,Kings Arms Drammen,Drammen,bar-fanzone
+post@dickens.no,Redaksjonen,Dickens Drammen,Drammen,bar-fanzone
+post@barkaden.no,Redaksjonen,Barkaden Union Drammen + Fredrikstad,Drammen,bar-fanzone
+post@kometendrammen.no,Redaksjonen,Kometen Drammen,Drammen,bar-fanzone
+post@blarock.no,Redaksjonen,Blårock Cafe Tromsø,Tromsø,bar-fanzone
+post@hjemmebane.no,Redaksjonen,Hjemmebane Tromsø,Tromsø,bar-fanzone
+post@sportsbarenbodo.no,Redaksjonen,Sportsbaren Bodø,Bodø,bar-fanzone
+post@saintsbar.no,Redaksjonen,Saints Bar + VM Bonanza Fredrikstad,Fredrikstad,bar-fanzone
+post@dickens-sarpsborg.no,Redaksjonen,Olsen's/Dickens Sarpsborg,Sarpsborg,bar-fanzone
+post@borgbierstube.no,Redaksjonen,Borg Bierstube Sarpsborg,Sarpsborg,bar-fanzone
+post@josimar.no,Redaksjonen,Josimar fotballmagasin,Oslo,medie-fotball
+post@rabonapod.no,Redaksjonen,Rabona Podcast,Sandefjord,medie-podkast
+fotballradet@gmail.com,Redaksjonen,Fotballrådet podkast,Hele Norge,medie-podkast
+sport@tv2.no,Sportsredaksjonen,TV 2 Sporten,Bergen,medie-sport
+sporten@vg.no,Sportsredaksjonen,VG Sport,Oslo,medie-sport
+sport@dagbladet.no,Sportsredaksjonen,Dagbladet Sport,Oslo,medie-sport
+sport@aftenposten.no,Sportsredaksjonen,Aftenposten Sport,Oslo,medie-sport
+sport@nettavisen.no,Sportsredaksjonen,Nettavisen Sport,Oslo,medie-sport
+tips@vg.no,Tipsredaksjonen,VG Tips,Oslo,medie-tips
+tips@db.no,Tipsredaksjonen,Dagbladet Tips,Oslo,medie-tips
+tips@aftenposten.no,Tipsredaksjonen,Aftenposten Tips,Oslo,medie-tips
+tips@nettavisen.no,Tipsredaksjonen,Nettavisen Tips,Oslo,medie-tips
+kultur@vg.no,Kulturredaksjonen,VG Kultur,Oslo,medie-kultur
+kultur@aftenposten.no,Kulturredaksjonen,Aftenposten Kultur,Oslo,medie-kultur
+kultur@dagsavisen.no,Kulturredaksjonen,Dagsavisen Kultur,Oslo,medie-kultur
+redaksjonen@klassekampen.no,Redaksjonen,Klassekampen,Oslo,medie-kultur
+redaksjonen@morgenbladet.no,Redaksjonen,Morgenbladet,Oslo,medie-kultur
+tips@kode24.no,Redaksjonen,Kode24 (tech/AI),Oslo,medie-tech
+tips@digi.no,Redaksjonen,Digi.no,Oslo,medie-tech
+tips@shifter.no,Redaksjonen,Shifter,Oslo,medie-tech
+tech@e24.no,Tech-redaksjonen,E24 Tech,Oslo,medie-tech

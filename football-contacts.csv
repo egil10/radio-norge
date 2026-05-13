@@ -1,0 +1,45 @@
+name,type,city,website,primary_email,secondary_email,phone,address,contact_person,role,notes
+Norges Fotballforbund (NFF),federation,Oslo,https://www.fotball.no,ragnhildask.connell@fotball.no,yngve.haavik@fotball.no,21 02 93 00,"Sognsveien 75J / Postboks 5000 Ullevål Stadion 0840 Oslo",Ragnhild Ask Connell,Kommunikasjonsdirektør,Hovedinngang for landslag/forbund
+NFF Media-ansvarlig herrelandslag,federation-press,Oslo,https://www.fotball.no,mms@fotball.no,,91 51 46 36,"Ullevål Stadion 0840 Oslo",Morten Morisbak Skjønsberg,Medieansvarlig A-landslag herrer,
+NFF Media-ansvarlig kvinnelandslag,federation-press,Oslo,https://www.fotball.no,carinaolset.hovda@fotball.no,,99 29 91 17,"Ullevål Stadion 0840 Oslo",Carina Olset Hovda,Medieansvarlig A-landslag damer,
+NFF Sosiale medier,federation-social,Oslo,https://www.fotball.no,AnnikenSaetre.Pedersen@fotball.no,,94 80 58 83,"Ullevål Stadion 0840 Oslo",Anniken Sætre Pedersen,Social Media Manager,
+NFF Presseredaktør,federation-press,Oslo,https://www.fotball.no,msw@fotball.no,,95 24 90 18,"Ullevål Stadion 0840 Oslo",Mari Stanisic Waagaard,Redaktør/komm.rådgiver,For pressemeldinger
+NFF Supporterkoordinator,federation,Oslo,https://www.fotball.no,freddydos.santos@fotball.no,,95 11 11 11,"Ullevål Stadion 0840 Oslo",Freddy dos Santos,Supporterkoordinator,
+NFF Innholdsprodusent,federation,Oslo,https://www.fotball.no,terje.skeie@fotball.no,,95 92 55 53,"Ullevål Stadion 0840 Oslo",Terje Skeie,Content Producer,
+NFF Pressetelefon,federation-press,Oslo,https://www.fotball.no,,,911 16 156,"Ullevål Stadion 0840 Oslo",,,Akutt utenfor kontortid
+Oljeberget Supporterklubb,supporter-national,Oslo,https://www.oljeberget.no,billett@oljeberget.no,,,Oslo,,,Landslagets supporterklubb (herrer)
+Klanen,supporter-club,Oslo,https://klanen.no,post@klanen.no,,,Oslo,,,Vålerengas supporterklubb
+Bataljonen,supporter-club,Bergen,https://bataljonen.no,bataljonen@bataljonen.no,morten@bataljonen.no,959 19 789,Bergen,Morten Talhaug,Supporterkoordinator,Branns supporterklubb
+Vålerenga Fotball,eliteserien,Oslo,https://www.vif-fotball.no,post@vif-fotball.no,,,"Intility Arena Oslo",,,
+Brann,eliteserien,Bergen,https://www.brann.no,kontakt@brann.no,,55 59 85 00,"Brann Stadion Bergen",,,
+Bodø/Glimt,eliteserien,Bodø,https://www.glimt.no,glimt@glimt.no,simen@glimt.no,755 45 500,"Aspmyra Stadion Bodø",Simen Pedersen,Medieansvarlig,
+Molde FK,eliteserien,Molde,https://www.moldefk.no,post@moldefk.no,per.lianes@moldefk.no,71 20 25 00,"Julsundveien 14 Aker Stadion 6412 Molde",Per Lianes,Mediedirektør,
+Rosenborg BK,eliteserien,Trondheim,https://www.rbk.no,kontakt@rbk.no,,,"Lerkendal Stadion Trondheim",,,
+Viking FK,eliteserien,Stavanger,https://www.viking-fk.no,kontakt@viking-fk.no,post@viking-fk.no,,"SR-Bank Arena Stavanger",,,
+Tromsø IL,eliteserien,Tromsø,https://www.til.no,kontakt@til.no,,97 17 30 00,"Romssa Arena Tromsø",,,
+Sarpsborg 08,eliteserien,Sarpsborg,https://www.sarpsborg08.no,kontakt@sarpsborg08.no,,,"Sarpsborg Stadion",,,
+Fredrikstad FK,eliteserien,Fredrikstad,https://www.fredrikstadfk.no,post@fredrikstadfk.no,,,"Fredrikstad Stadion",,,
+HamKam,eliteserien,Hamar,https://www.hamkam.no,post@hamkam.no,,,"Briskeby Hamar",,,
+Kristiansund BK,eliteserien,Kristiansund,https://www.kristiansundbk.no,post@kristiansundbk.no,,,"Kristiansund Stadion",,,
+KFUM Oslo,eliteserien,Oslo,https://www.kåffa.no,post@kfumoslo.no,,,"Ekebergsletta Oslo",,,Kåffa
+Lillestrøm SK,eliteserien,Lillestrøm,https://www.lsk.no,post@lsk.no,,,"Åråsen Lillestrøm",,,
+AaFK (Aalesund),eliteserien,Ålesund,https://www.aafk.no,post@aafk.no,,,"Color Line Stadion Ålesund",,,
+IK Start,eliteserien,Kristiansand,https://www.ikstart.no,post@ikstart.no,,,"Sør Arena Kristiansand",,,
+Sandefjord Fotball,eliteserien,Sandefjord,https://www.sandefjordfotball.no,post@sandefjordfotball.no,,,"Jotron Arena Sandefjord",,,
+Strømsgodset,obos-ligaen,Drammen,https://www.godset.no,post@godset.no,,,"Marienlyst Drammen",,,Rykket ned 2025
+FK Haugesund,obos-ligaen,Haugesund,https://www.fkh.no,post@fkh.no,,,"Haugesund Stadion",,,
+Bryne FK,obos-ligaen,Bryne,https://www.bryneFK.no,post@brynefk.no,,,"Bryne Stadion",,,
+Stabæk,obos-ligaen,Bærum,https://www.stabak.no,post@stabak.no,,,"Nadderud Bærum",,,
+Sandnes Ulf,obos-ligaen,Sandnes,https://www.sandnesulf.no,post@sandnesulf.no,,,"Sandnes Stadion",,,
+Mjøndalen IF,obos-ligaen,Mjøndalen,https://www.mif.no,post@mif.no,,,"Consto Arena Mjøndalen",,,
+Aalesunds FK 2,obos-ligaen,Ålesund,https://www.aafk.no,post@aafk.no,,,"Ålesund",,,
+Sogndal IL,obos-ligaen,Sogndal,https://www.sogndalfotball.no,post@sogndalfotball.no,,,"Fosshaugane Sogndal",,,
+Skeid,obos-ligaen,Oslo,https://www.skeid.no,post@skeid.no,,,"Nordre Åsen Oslo",,,
+Raufoss IL,obos-ligaen,Raufoss,https://www.raufoss-il.no,post@raufoss-il.no,,,"Raufoss Stadion",,,
+KFUM Kameratene,obos-ligaen,Oslo,https://www.kfumkam.no,post@kfumkam.no,,,"Oslo",,,
+Ranheim IL,obos-ligaen,Trondheim,https://www.ranheimfotball.no,post@ranheimfotball.no,,,"Extra Arena Trondheim",,,
+Levanger FK,obos-ligaen,Levanger,https://www.levangerfk.no,post@levangerfk.no,,,"Levanger Stadion",,,
+Egersunds IK,obos-ligaen,Egersund,https://www.eik-fotball.no,post@eik-fotball.no,,,"Egersund",,,
+Hødd IL,obos-ligaen,Ulsteinvik,https://www.hoddil.no,post@hoddil.no,,,"Hødd Stadion Ulsteinvik",,,
+Kongsvinger IL,obos-ligaen,Kongsvinger,https://www.kil.no,post@kil.no,,,"Gjemselund Kongsvinger",,,
+Åsane Fotball,obos-ligaen,Bergen,https://www.aasanefotball.no,post@aasanefotball.no,,,"Åsane Arena Bergen",,,

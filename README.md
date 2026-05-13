@@ -1,25 +1,33 @@
 # radio-norge
 
-Kontaktliste over norske radiostasjoner — for utsendelse av albumet
-**"Norge til VM"** av **Stoch** (AI-generert musikk, fri bruk).
+Kontaktliste for å gjøre **"Norge til VM"** av **Stoch** viralt
+(AI-generert album, fri bruk).
 
 ## Hva er dette?
 
-En kuratert oversikt over så mange norske radiokanaler som mulig — nasjonale,
-regionale og lokale — med e-post, telefon, adresse, sosiale medier og
-kontaktperson der det er funnet.
+Kuratert kontaktdirektorat over hele økosystemet som kan spille,
+dele eller dekke albumet inn mot VM 2026:
 
-Listen brukes til manuell mail merge: send album-en gratis til redaksjoner,
-med klar opplysning om at musikken er AI-generert og fri til bruk.
+- 🇳🇴 **Radiostasjoner** — nasjonale, regionale, lokale (150+)
+- ⚽ **Fotballklubber** — Eliteserien, OBOS-ligaen, NFF, supporterklubber
+- 🍺 **Bars & fan zones** — ~90 steder som viser VM på storskjerm
+- 🎧 **Spotify-kuratorer** — inkl. Digster Norge sin "🇳🇴 NORGE TIL VM 2026 ⚽️"
+- 📰 **Sportsmedier, podkaster, kulturpresse, tech-presse**
+
+Brukes til manuell mail merge — send albumet gratis ut med åpenhet om AI.
 
 ## Filer
 
 | Fil | Innhold |
 |---|---|
-| `radio-stations.csv` | Hovedlisten: 150+ stasjoner med kontaktinfo |
-| `national-networks.md` | Detaljert info om NRK, P4-gruppen, Bauer Media |
+| ⭐ `mailmerge.csv` | **Ren mail-merge-fil** — email, first_name, station_name, region, type — 230+ kontakter |
+| `radio-stations.csv` | Radio: 150+ stasjoner med full kontaktinfo |
+| `football-contacts.csv` | NFF, Eliteserien, OBOS-ligaen, supporterklubber |
+| `bars-and-fanzones.csv` | ~90 bars/fan zones for VM 2026 |
+| `national-networks.md` | Detaljert: NRK, P4-gruppen, Bauer Media |
+| `media-and-playlists.md` | Spotify-kuratorer, podkaster, sportsmedier, kultur, tech |
 | `outreach-template.md` | Ferdige e-post/DM-maler på norsk |
-| `sources.md` | Kilder brukt for å bygge listen |
+| `sources.md` | Kilder |
 
 ## CSV-felter
 
@@ -48,7 +56,7 @@ Type kan være: `national-public`, `national-commercial`,
    personlige e-poster til P1/P2/P3-musikkprodusentene.
 5. **P4-gruppen** — én enkelt adresse `musikk@p4.no` dekker hele konsernet.
 
-## Antall stasjoner i listen
+## Antall kontakter i listen
 
 | Kategori | Antall |
 |---|---|
@@ -58,7 +66,16 @@ Type kan være: `national-public`, `national-commercial`,
 | Lokalradioer (Norsk Lokalradioforbund) | ~95 |
 | Kristne/livssyn-stasjoner | ~10 |
 | Student/flerkulturelle | ~6 |
-| **Totalt** | **150+** |
+| NFF (kommunikasjon, presse, sosiale medier) | ~11 |
+| Eliteserien klubber | 16 |
+| OBOS-ligaen klubber | 16 |
+| Supporterklubber (Oljeberget, Klanen, Bataljonen ...) | ~6 |
+| Bars / fan zones (Oslo/Bergen/Trondheim/Stavanger ++) | ~90 |
+| Sportsmedier (NRK Sport, TV 2, VG, Dagbladet, AP, Nettavisen ...) | ~12 |
+| Fotballpodkaster (Rabona, Fotballrådet, TV 2, NRK ...) | ~7 |
+| Spotify-spillelister/kuratorer (Digster, Filtr, Topsify ...) | ~8 |
+| Kultur- & tech-presse | ~10 |
+| **Totalt** | **~320+** |
 
 ## Vær åpen om AI
 
