@@ -26,6 +26,7 @@ Brukes til manuell mail merge — send albumet gratis ut med åpenhet om AI.
 | `bars-and-fanzones.csv` | ~90 bars/fan zones for VM 2026 |
 | `national-networks.md` | Detaljert: NRK, P4-gruppen, Bauer Media |
 | `media-and-playlists.md` | Spotify-kuratorer, podkaster, sportsmedier, kultur, tech |
+| `players-and-comedians.md` | Landslagsspillere (via klubb+NFF) + norske komikere/management |
 | `outreach-template.md` | Ferdige e-post/DM-maler på norsk |
 | `sources.md` | Kilder |
 
@@ -75,7 +76,12 @@ Type kan være: `national-public`, `national-commercial`,
 | Fotballpodkaster (Rabona, Fotballrådet, TV 2, NRK ...) | ~7 |
 | Spotify-spillelister/kuratorer (Digster, Filtr, Topsify ...) | ~8 |
 | Kultur- & tech-presse | ~10 |
-| **Totalt** | **~320+** |
+| Komiker-management (Pullman, Fenomen, Stageway, Stand Up Norge, Latter) | ~10 |
+| Komikere/komikerpodkaster (Radioresepsjonen, Friminutt, Juicy, Storefri ++) | ~12 |
+| TV-humor (Nytt på nytt, Senkveld, Kongen befaler, GMN) | ~5 |
+| Fotballklubber utland (for landslagsspillere via klubbpresse) | ~12 |
+| Fotball-agenter Norge (Northern Stars ++) | ~3 |
+| **Totalt** | **~360+** |
 
 ## Vær åpen om AI
 
